@@ -15,7 +15,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav {
+header nav { 
   float: right;
 }
 
@@ -48,4 +48,8 @@ h3#header {
 #header a{
   text-decoration: none;
   color: #868e96;
+}
+
+div.jumbotron {
+  border-radius: 5px;
 }
